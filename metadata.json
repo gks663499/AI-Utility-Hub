@@ -1,0 +1,8 @@
+{
+  "name": "AI Utility Hub",
+  "description": "A comprehensive AI SaaS dashboard providing blog commenting, language tutoring, image editing, SEO audits, logo animation, transcription, and user testing tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
